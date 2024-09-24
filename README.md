@@ -9,4 +9,4 @@ cd RAG_Agentic_Chunking/src
 python3 demo_rag.py
 ```
  ## Agentic Chunking Strategy
- <img src="(https://github.com/QuagHien/RAG_Agentic_Chunking/blob/main/images/agentic%20chunking.png)" alt="chunking" />
+ <img src="https://github.com/QuagHien/RAG_Agentic_Chunking/blob/main/images/agentic%20chunking.png" alt="chunking" />
