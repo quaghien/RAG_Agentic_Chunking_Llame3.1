@@ -13,3 +13,11 @@ jinja2
 tritonclient[all]
 attrdict
 python-multipart
+
+# RAG
+langchain-community
+langchain
+langchain-experimental
+qdrant-client
+langchain-qdrant
+langchain-huggingface
